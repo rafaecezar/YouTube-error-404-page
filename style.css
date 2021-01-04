@@ -1,4 +1,4 @@
-@media (max-width: 800px)
+@media (max-width: 800px) {
 body {
     background: #f1f1f1;
 }
@@ -60,4 +60,5 @@ p {
     width: 15px;
     height: 15px;
     color: lightgrey;
+}
 }
