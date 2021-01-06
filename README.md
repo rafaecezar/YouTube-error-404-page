@@ -1,5 +1,5 @@
 # YouTube Error 404 Page
-Hello everyone! This is my 2° project and at this poject, I created the YouTube error 404' webpage. This webpage appears when you serach for any addres doesn't exists after "youtube.com/".
+Hello everyone! This is my 2nd project and at this poject, I created the YouTube error 404' webpage. This webpage appears when you serach for any addres doesn't exists after "youtube.com/".
 
 To compare my project with this page, open it first in another browser window
 
